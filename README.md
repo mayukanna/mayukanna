@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Thangavel
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python programming
+- 💞️ I’m looking to collaborate on software compnies
+- 📫 How to reach me thangvel7@gmail.com
